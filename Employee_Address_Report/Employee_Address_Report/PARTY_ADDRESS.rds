@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PARTY_ADDRESS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=KIRANMADALA;Initial Catalog=VINAYTECH_DB_MSBI_1</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source PARTY_ADDRESS</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>416ec3f7-671e-4bf2-a150-b9241d4f55d6</DataSourceID>
+</RptDataSource>

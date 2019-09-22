@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Employee_Address_Report", "Employee_Address_Report\Employee_Address_Report.rptproj", "{09451000-D9C9-48CB-80FA-E9D93BF24F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Debug|Default.ActiveCfg = Debug
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Debug|Default.Build.0 = Debug
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Debug|Default.Deploy.0 = Debug
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.DebugLocal|Default.Build.0 = DebugLocal
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Release|Default.ActiveCfg = Release
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Release|Default.Build.0 = Release
+		{09451000-D9C9-48CB-80FA-E9D93BF24F0B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Kiran_Reporting_Project", "Kiran_Reporting_Project\Kiran_Reporting_Project.rptproj", "{39B56E50-36C7-4574-B60F-40C65216F04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Debug|Default.ActiveCfg = Debug
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Debug|Default.Build.0 = Debug
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Debug|Default.Deploy.0 = Debug
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.DebugLocal|Default.Build.0 = DebugLocal
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Release|Default.ActiveCfg = Release
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Release|Default.Build.0 = Release
+		{39B56E50-36C7-4574-B60F-40C65216F04B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
